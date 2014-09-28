@@ -1,0 +1,2 @@
+http://localhost:8081/TesteWEB/services/CalculaDescontoService?wsdl
+DENTRO DO PROJETO DO ECLIPSE
